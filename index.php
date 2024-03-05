@@ -155,7 +155,7 @@
         </div>
         <div class="container-about">
             <div class="about-content">
-                <h2>Dr. Utkarsh Shrivas</h2>
+                <h2>Dr. Jhatka</h2>
                 <p>BDS, MDS (Orthodontist)</p>
                 <p>Lorem ipsum dolor sit amet consectetur
                     adipisicing elit. Pariatur, molestiae.
@@ -164,10 +164,10 @@
                     ut incidunt sint iure qui ullam recusandae
                     ducimus maxime reprehenderit eum.</p>
                 <div class="social">
-                    <a href="https://twitter.com/AwesomeU_S" target="_main"><i class="fa-brands fa-twitter"></i></a>
+                    <a href="#" target="_main"><i class="fa-brands fa-twitter"></i></a>
                     <a href="#"><i class="fa-brands fa-instagram" target="_main"></i></a>
                     <a href="#"><i class="fa-brands fa-facebook" target="_main"></i></a>
-                    <a href="https://in.linkedin.com/in/dr-utkarsh-shrivas-96650a87" target="_main"><i
+                    <a href="#" target="_main"><i
                             class="fa-brands fa-linkedin"></i></a>
                 </div>
                 <a href="" class="btn" id="home" style="margin-top: 20px;">Read More</a>
@@ -273,22 +273,22 @@
                 <h3>
                     Address
                 </h3>
-                <p>Front of Motilal Nehru P.G. La collage Sagar road Chhatarpur (M.P.)</p>
+                <p>Address  xx xxx xx xx x  x x x </p>
             </div>
             <div class="box">
                 <h3>E-mail</h3>
-                <a href="" class="link">utkarsh3345@gmail.com</a>
-                <a href="" class="link">22bcs042@iiitdmj.ac.in</a>
+                <a href="" class="link">xxx@gmail.com</a>
+                <a href="" class="link">xxx@iitb.ac.in</a>
             </div>
             <div class="box">
                 <h3>Contact Us</h3>
-                <p>+91-7772016490</p>
-                <p>+91-8770532206</p>
+                <p>+91-xxxxxxxxxxx</p>
+                <p>+91-xxxxxxxxxx</p>
                 <div class="share">
-                    <a href="https://twitter.com/AwesomeU_S" target="_main"><i class="fa-brands fa-twitter"></i></a>
+                    <a href="#" target="_main"><i class="fa-brands fa-twitter"></i></a>
                     <a href="#"><i class="fa-brands fa-instagram" target="_main"></i></a>
                     <a href="#"><i class="fa-brands fa-facebook" target="_main"></i></a>
-                    <a href="https://in.linkedin.com/in/dr-utkarsh-shrivas-96650a87" target="_main"><i class="fa-brands fa-linkedin"></i></a>
+                    <a href="#" target="_main"><i class="fa-brands fa-linkedin"></i></a>
                 </div>
             </div>
             <div class="box">
